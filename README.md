@@ -135,23 +135,30 @@ Untuk code yang digunakan ialah seperti gambar dibawah ini beserta button yang t
 ![enter image description here](https://i.imgur.com/XgIvvuc.jpg)
 *Contoh Button yang tersambung Update user![*C*](https://i.imgur.com/aevYPpf.jpg)*Contoh Button submit untuk user yang telah di edit
 ![enter image description here](https://i.imgur.com/IRboGBt.jpg)
+
 *Contoh gambar untuk fungsi atau method*
 
 Setelah penjelasannya dari update kemudian penjelasan dari bagian **Delete**. Delete button merupakan untuk delete user yang ada di tabel
 ![enter image description here](https://i.imgur.com/YaDfKHZ.png)
+
 *Contoh gambar fungsi delete*
 ![enter image description here](https://i.imgur.com/rCypk5h.jpg)
 ![enter image description here](https://i.imgur.com/CiI9xDF.jpg)
 *Contoh fungsi delete beserta button terhubung.*
 
 Setelah penjelasan delete berikutnya ialah Button Component. Button component dalam projek ini ada 3 yaitu **AddUserButton** , **UpdateUserButton**, **DeleteUserButton**
+
 ![enter image description here](https://i.imgur.com/rllA0Vt.jpg)
+
 *Contoh gambar file button component*
+
 dan tidak hanya itu saja melainkan isi dari component tersebut ialah button untuk bisa di reusable
 ![enter image description here](https://i.imgur.com/hmbEnxE.jpg)
+
 *Contoh is file component tiap button*
 Dan untuk import ada di gambar bawah ini
 ![enter image description here](https://i.imgur.com/llIsLQP.jpg)
+
 *Contoh file import component*
 Untuk pemanggilannya ada di gambar sebelumnya seperti **add**, **update**, dan **delete**. 
 
