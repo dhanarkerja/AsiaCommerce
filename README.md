@@ -165,3 +165,4 @@ Dan untuk import ada di gambar bawah ini
 Untuk pemanggilannya ada di gambar sebelumnya seperti **add**, **update**, dan **delete**. 
 
 Sekian dari penjelasan proyek ini semoga bermanfaat dan membantu.
+Link semua gambar proyek https://imgur.com/a/45Ue2uM
