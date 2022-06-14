@@ -121,7 +121,8 @@ Di hari ini saya berencana membuat modal pada update, membuat fungsi delete, dan
 </div>
 ```
 *Contoh code untuk modal dari Bootstrap*
-Karena saya Bootstrap Vue bisa dijalankan baik ketimbang originalnya maka saya gunakan modal dari Bootstrap Vue. Dan hasil tampilan Modal dari Bootstrap Vue ialah seperti gambar dibawah ini.
+
+Karena  Bootstrap Vue bisa dijalankan baik ketimbang originalnya maka saya gunakan modal dari Bootstrap Vue. Dan hasil tampilan Modal dari Bootstrap Vue ialah seperti gambar dibawah ini.
 ![enter image description here](https://i.imgur.com/XtpsN0o.jpg)
 Proses dari update user ke modal ialah
 
@@ -144,6 +145,7 @@ Setelah penjelasannya dari update kemudian penjelasan dari bagian **Delete**. De
 *Contoh gambar fungsi delete*
 ![enter image description here](https://i.imgur.com/rCypk5h.jpg)
 ![enter image description here](https://i.imgur.com/CiI9xDF.jpg)
+
 *Contoh fungsi delete beserta button terhubung.*
 
 Setelah penjelasan delete berikutnya ialah Button Component. Button component dalam projek ini ada 3 yaitu **AddUserButton** , **UpdateUserButton**, **DeleteUserButton**
